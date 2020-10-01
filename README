@@ -317,7 +317,7 @@ COMPILING the kernel:
    work.  See the LILO docs for more information. 
 
    After reinstalling LILO, you should be all set.  Shutdown the system,
-   reboot, and enjoy!
+   reboot, and enjoy (If You done it correctly)!
 
    If you ever need to change the default root device, video mode,
    ramdisk size, etc.  in the kernel image, use the 'rdev' program (or
